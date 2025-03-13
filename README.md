@@ -1,7 +1,5 @@
 # E-Commerce-Sales-Analysis-and-Prediction-with-Linear-Regression
 
-## # Linear Regression (E-Commerce) Project
-
 ## Project Overview
 
 This project aims to analyze an e-commerce dataset and predict customer spending using Linear Regression. The goal is to determine the factors influencing customer purchases and provide insights for business decision-making.
